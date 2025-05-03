@@ -4,6 +4,6 @@ order: 4
 ---
 
 ### Nev Southammavong
-- All Things Offensive Security
+- All things offensive security
 - BsCys @ USF
 - CTF Addict
